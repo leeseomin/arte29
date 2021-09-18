@@ -79,7 +79,7 @@ bash main.sh
 ### output image1
  <img src="https://github.com/leeseomin/arte29/blob/main/out/IMG_1716mon7cpu1_cake.png" width="2000">
  <img src="https://github.com/leeseomin/arte29/blob/main/out/IMG_1716mon7cpu1.png" width="2000">
-
+ <img src="https://github.com/leeseomin/arte29/blob/main/out/IMG_1716mon7cpu1_cake_cartesian30.png" width="2000">
 
  
  
