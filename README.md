@@ -76,6 +76,11 @@ mkdir s{1..25}
 
 input images folder : s ,   result folder : s25
 
+on mac
+
+bash new.sh
+
+on ubuntu
 
 bash main.sh   
 
